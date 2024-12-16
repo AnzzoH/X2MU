@@ -4,7 +4,10 @@
 
 ## 特征
 
-* [Page 3](te-zheng/page-3.md)
+* [MU介绍](te-zheng/mu-jie-shao.md)
+* [NFT介绍](te-zheng/nft-jie-shao/README.md)
+  * [参与NFT（玩家身份NFT）](te-zheng/nft-jie-shao/can-yu-nft-wan-jia-shen-fen-nft.md)
+  * [星球节点NFT](te-zheng/nft-jie-shao/xing-qiu-jie-dian-nft.md)
 
 ## 经济模型
 
